@@ -3,7 +3,7 @@ The iDwgGroup program maintains group and XDATA information when saving group ob
 
 * * *
 Program name : iDwgGroup
-Development : BIMSoft (www.bimsoft.co.kr)
+Development : BIMSoft (www.bimsoft.co.kr , arx119.egloos.com)
 Version : Ver 1.1.0.1
 * * *
 * iDwgGrp14.arx    : AutoCAD R14
