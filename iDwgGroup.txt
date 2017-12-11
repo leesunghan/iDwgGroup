@@ -1,0 +1,37 @@
+/************************************************************************
+* 프로그램 : iDwgGroup
+* 개 발 사 : BIMSoft
+* 개발일시 : 2004년 6월 8일
+* 버    젼 : Ver 1.1.0.1
+*========================================================================
+* iDwgGrp14.arx    : AutoCAD R14용
+* iDwgGrp2000.arx  : AutoCAD (LT) R2000/R2000i/R2002 (32bit) 
+* iDwgGrp2004.arx  : AutoCAD (LT) R2004/R2005/2006 (32bit) 
+* iDwgGrp2007.arx  : AutoCAD (LT) R2007/R2008/2009 (32bit) 
+* iDwgGrp2007x.arx : AutoCAD (LT) R2007/R2008/2009 (64bit) 
+* iDwgGrp2010.arx  : AutoCAD (LT) R2010/R2011/2012 (32bit) 
+* iDwgGrp2010x.arx : AutoCAD (LT) R2010/R2011/2012 (64bit) 
+* iDwgGrp2013.arx  : AutoCAD (LT) R2013/R2014 (32bit) 
+* iDwgGrp2013x.arx : AutoCAD (LT) R2013/R2014 (64bit) 
+* iDwgGrp2015.arx  : AutoCAD (LT) R2015/R2016 (32bit) 
+* iDwgGrp2015x.arx : AutoCAD (LT) R2015/R2016 (64bit) 
+* iDwgGrp2017.arx  : AutoCAD (LT) R2017 (32bit) 
+* iDwgGrp2017x.arx : AutoCAD (LT) R2017 (64bit) 
+* iDwgGrp2018.arx  : AutoCAD (LT) R2018 (32bit) 
+* iDwgGrp2018x.arx : AutoCAD (LT) R2018 (64bit) 
+*************************************************************************
+
+[프로그램 기능]
+iDwgGroup프로그램은 group객체를 copy, wblock명령으로 파일화 시킬때 그룹및 XDATA
+가 사라지는 것을 방지합니다.
+
+[프로그램 배포형태]
+iDwgGroup프로그램은 Free 프로그램 입니다.
+
+[명령어]
+IDGP_ABOUT : iDwgGroup 프로그램 정보를 출력하는 명령
+IDGP_PURGE : 비어있는 그룹 객체(들)를 삭제하는 명령
+IDGP_RMANY : Anonymous 그룹 객체만 삭제하는 명령
+IDGP_GNAME : 선택한 객체의 그룹 이름을 표시하는 명령
+
+
